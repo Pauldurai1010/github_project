@@ -7,3 +7,4 @@ Mysql
 BI
 Statistics
 Machine learning
+Database
