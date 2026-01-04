@@ -1,4 +1,4 @@
-# Data Analyst syllabus  
+# Data Analyst list  
 ## Datamites, Coimbatore
 
 Courses:
