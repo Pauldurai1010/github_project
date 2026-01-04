@@ -1,5 +1,5 @@
 # Data Analyst syllabus  
-## Datamites, Coimbatore
+## Datamites, Chennai
 
 Courses:
 Python
