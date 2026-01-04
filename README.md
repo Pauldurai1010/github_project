@@ -7,4 +7,9 @@ Mysql
 BI
 Statistics
 Machine learning
+<<<<<<< Updated upstream
 Database
+=======
+AI
+Power bi
+>>>>>>> Stashed changes
