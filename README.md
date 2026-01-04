@@ -5,3 +5,4 @@ Courses:
 Python
 Mysql
 BI
+Statistics
