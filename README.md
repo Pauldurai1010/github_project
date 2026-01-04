@@ -6,3 +6,4 @@ Python
 Mysql
 BI
 Statistics
+Machine learning
